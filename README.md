@@ -94,19 +94,19 @@ Month Date = DATE(VALUE(LEFT([report_month], 4)), VALUE(MID([report_month], 6, 2
 
 **Executive Overview**
 
-<img src="screenshots/01_executive_overview.png" width="90%" alt="Executive Overview"/>
+<img src="screenshot/Executive%20Overview.png" width="90%" alt="Executive Overview"/>
 
 **Inventory & Warehouse**
 
-<img src="screenshots/02_inventory_warehouse.png" width="90%" alt="Inventory and Warehouse"/>
+<img src="screenshot/Inventory%20Warehouse.png" width="90%" alt="Inventory and Warehouse"/>
 
 **Supplier Performance**
 
-<img src="screenshots/03_supplier_performance.png" width="90%" alt="Supplier Performance"/>
+<img src="screenshot/Supplier%20Performance.png" width="90%" alt="Supplier Performance"/>
 
 **Cost & Efficiency**
 
-<img src="screenshots/04_cost_efficiency.png" width="90%" alt="Cost and Efficiency"/>
+<img src="screenshot/Cost%20Efficiency.png" width="90%" alt="Cost and Efficiency"/>
 
 </div>
 
@@ -163,11 +163,11 @@ The monthly view only contains data for **2020-11, 2021-12, and every month from
 ```
 ├── README.md
 ├── Supply_Chain_Inventory_MIS.pbix
-├── screenshots/
-│   ├── 01_executive_overview.png
-│   ├── 02_inventory_warehouse.png
-│   ├── 03_supplier_performance.png
-│   └── 04_cost_efficiency.png
+├── screenshot/
+│   ├── Executive Overview.png
+│   ├── Inventory Warehouse.png
+│   ├── Supplier Performance.png
+│   └── Cost Efficiency.png
 └── sql/            (optional: your table and view scripts)
 ```
 
@@ -184,8 +184,7 @@ The monthly view only contains data for **2020-11, 2021-12, and every month from
 ---
 
 ## 👤 Author
-HARSH KUSHWAH 
-
+HARSH KUSHWAH
 
 <div align="center">
 
