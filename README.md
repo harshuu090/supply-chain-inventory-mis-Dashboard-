@@ -1,12 +1,10 @@
 <!-- Animated header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:283C18,100:626F3B&height=220&section=header&text=Supply%20Chain%20%26%20Inventory%20Control&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MIS%20Dashboard%20using%20MySQL%20%2B%20Power%20BI&descSize=20&descAlignY=60" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=626F3B&height=200&section=header&text=Supply%20Chain%20MIS%20Dashboard&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header banner"/>
 
 <!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3000&pause=1000&color=626F3B&center=true&vCenter=true&width=700&lines=Track+orders%2C+inventory+%26+backorders;Compare+suppliers+and+warehouses;Turn+SQL+data+into+business+decisions" alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=626F3B&center=true&vCenter=true&width=600&lines=Track+orders+and+inventory;Compare+suppliers+and+warehouses;Turn+SQL+data+into+business+decisions" alt="Typing animation"/>
 
 <br/>
 
@@ -186,9 +184,8 @@ The monthly view only contains data for **2020-11, 2021-12, and every month from
 ---
 
 ## 👤 Author
-
 HARSH KUSHWAH 
-🔗 [LinkedIn](https://www.linkedin.com/in/harsh-kushwah-/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/your-username)
+
 
 <div align="center">
 
